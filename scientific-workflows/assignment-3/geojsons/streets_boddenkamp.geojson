@@ -1,0 +1,6210 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "18257",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "R.J. Schimmelpenninckstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 0
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766659.58979219, 6841146.22946231],
+            [766761.90746969, 6841062.93887586]
+          ]
+        ]
+      },
+      "id": "0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "18264",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkamplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 1
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766644.17538176, 6840912.81325871],
+            [766804.46949056, 6841028.29050967]
+          ]
+        ]
+      },
+      "id": "1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "18265",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Wijbo Fijnjestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 2
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766644.17538176, 6840912.81325871],
+            [766673.09941338, 6840891.47024061],
+            [766726.50904081, 6840851.41960493],
+            [766698.52256925, 6840809.38381454],
+            [766615.79509624, 6840849.30687401]
+          ]
+        ]
+      },
+      "id": "2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "18266",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Noordenlooplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 3
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766842.5795785, 6841125.93432774],
+            [766888.06959315, 6841088.51592495]
+          ]
+        ]
+      },
+      "id": "3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "18267",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Noordenlooplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 4
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766721.143177, 6841253.135357],
+            [766762.10286795, 6841204.1991808],
+            [766800.59976211, 6841160.4650357]
+          ]
+        ]
+      },
+      "id": "4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "18389",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Noordenlooplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 5
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766800.59976211, 6841160.4650357],
+            [766842.5795785, 6841125.93432774]
+          ]
+        ]
+      },
+      "id": "5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "20854",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 6
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765725.30920849, 6840567.03216746],
+            [765734.2338038, 6840587.6198149],
+            [765748.01191528, 6840715.84825538]
+          ]
+        ]
+      },
+      "id": "6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "20852",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 7
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765718.7963671, 6840345.06808449],
+            [765710.39029881, 6840336.55631307],
+            [765707.9539458, 6840301.51009005],
+            [765708.0497051, 6840295.69465577]
+          ]
+        ]
+      },
+      "id": "7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "20853",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 8
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765725.30920849, 6840567.03216746],
+            [765717.34174221, 6840589.59678867],
+            [765733.38687877, 6840717.78343142]
+          ]
+        ]
+      },
+      "id": "8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "20930",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Richtersweg",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 9
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765594.23027599, 6840606.30535734],
+            [765704.93213139, 6840574.02234231],
+            [765725.30920849, 6840567.03216746]
+          ]
+        ]
+      },
+      "id": "9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "20939",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schuttersveld",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 10
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765725.30920849, 6840567.03216746],
+            [765865.75278096, 6840549.42978672]
+          ]
+        ]
+      },
+      "id": "10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21103",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Brammelerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 11
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767105.88945892, 6840160.01696323],
+            [767129.41696903, 6840155.3069171],
+            [767153.373457, 6840160.1734028]
+          ]
+        ]
+      },
+      "id": "11"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21106",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hoedemakerplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 12
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767105.88945892, 6840160.01696323],
+            [767114.16775065, 6840147.72151635],
+            [767118.13553334, 6840126.20319166]
+          ]
+        ]
+      },
+      "id": "12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21110",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Stationsplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 13
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766868.96430661, 6840238.5182742],
+            [766866.94005859, 6840227.36795308],
+            [766881.9218066, 6840128.40897704],
+            [766894.79883475, 6840106.44157323]
+          ]
+        ]
+      },
+      "id": "13"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21111",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "M.H. Tromplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 14
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766894.79883475, 6840106.44157323],
+            [766920.65951492, 6840115.05814299],
+            [766990.63863788, 6840136.60778703],
+            [767079.99443888, 6840158.2636819],
+            [767105.88945892, 6840160.01696323]
+          ]
+        ]
+      },
+      "id": "14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21112",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hoedemakerplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 15
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767105.88945892, 6840160.01696323],
+            [767100.9901769, 6840144.89855677],
+            [767104.58350576, 6840129.10375877],
+            [767106.91143946, 6840116.99181587]
+          ]
+        ]
+      },
+      "id": "15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21141",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Raiffeisenstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 16
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766880.65739885, 6840646.66805845],
+            [766888.37504308, 6840679.43157915],
+            [766900.63841729, 6840713.75232541],
+            [766913.79524656, 6840741.31299647],
+            [766949.69900652, 6840809.1551388],
+            [766957.66198655, 6840824.75846614],
+            [766994.77723304, 6840886.06287846],
+            [767004.81986627, 6840898.92278797],
+            [767018.1200503, 6840911.71500251],
+            [767026.33138288, 6840914.81149739],
+            [767071.01721222, 6840948.18785818],
+            [767141.10941822, 6840986.09496904]
+          ]
+        ]
+      },
+      "id": "16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21142",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Piet Heinstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 17
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767080.00154352, 6840309.75567913],
+            [767074.67258907, 6840305.05920168],
+            [767099.91190923, 6840164.36694118],
+            [767105.88945892, 6840160.01696323]
+          ]
+        ]
+      },
+      "id": "17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21143",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Korte Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 18
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767305.83213993, 6840449.50208993],
+            [767312.52596008, 6840432.21602157],
+            [767316.05935207, 6840412.75464982],
+            [767317.86067532, 6840395.06049931]
+          ]
+        ]
+      },
+      "id": "18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21178",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 19
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767214.88610222, 6840577.64663921],
+            [767206.29370291, 6840584.30720867],
+            [767148.6000736, 6840587.92665853],
+            [767109.71844798, 6840592.36659453],
+            [767089.87415471, 6840591.74194585]
+          ]
+        ]
+      },
+      "id": "19"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21176",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Stationsplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 20
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767166.47860935, 6840402.09571298],
+            [767136.08066298, 6840391.43412492],
+            [767120.20559465, 6840388.35031401],
+            [767114.60324781, 6840390.5249974],
+            [767109.0789676, 6840396.47301824],
+            [767102.11476762, 6840432.13296481],
+            [767102.58451144, 6840438.29940245],
+            [767106.39493744, 6840444.5678944],
+            [767111.25418923, 6840447.89880411],
+            [767286.87856701, 6840478.72941349],
+            [767299.29793208, 6840484.95748001]
+          ]
+        ]
+      },
+      "id": "20"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21177",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Dr. Benthemstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 21
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767141.10941822, 6840986.09496904],
+            [767173.08877032, 6841014.87374221]
+          ]
+        ]
+      },
+      "id": "21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21179",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 22
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766880.65739885, 6840646.66805845],
+            [766905.23071178, 6840643.84138148],
+            [766934.54603727, 6840635.59736822],
+            [766994.19178382, 6840617.9346839],
+            [767061.22085934, 6840598.7345158],
+            [767089.87415471, 6840591.74194585]
+          ]
+        ]
+      },
+      "id": "22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21180",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Molenstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 23
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767283.39256854, 6840581.12141555],
+            [767272.73153287, 6840586.55424563],
+            [767243.22326495, 6840585.61330154],
+            [767224.09459589, 6840586.18452588],
+            [767214.88610222, 6840577.64663921]
+          ]
+        ]
+      },
+      "id": "23"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21181",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 24
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767054.60223772, 6841295.47294575],
+            [767071.17566034, 6841234.23567912],
+            [767097.60479235, 6841141.52623359]
+          ]
+        ]
+      },
+      "id": "24"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21182",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottendijk",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 25
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766924.45370685, 6841286.21422289],
+            [766974.72576565, 6841215.31991205]
+          ]
+        ]
+      },
+      "id": "25"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21304",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Thorbeckelaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 26
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765632.01873257, 6841018.81626074],
+            [765647.71602963, 6841069.13438123],
+            [765663.01159616, 6841099.85767636],
+            [765685.81173056, 6841137.52114742]
+          ]
+        ]
+      },
+      "id": "26"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21305",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Cort van der Lindenlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 27
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765796.26692947, 6841031.44497934],
+            [765806.0663633, 6841019.68507601]
+          ]
+        ]
+      },
+      "id": "27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21306",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 28
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765767.11426508, 6840852.67250003],
+            [765782.06514452, 6840964.08432405],
+            [765787.51142105, 6840990.23028446],
+            [765793.73641862, 6841004.06254654],
+            [765806.0663633, 6841019.68507601]
+          ]
+        ]
+      },
+      "id": "28"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21431",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 29
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766264.610297, 6840921.08709839],
+            [766271.50961813, 6840931.22773909]
+          ]
+        ]
+      },
+      "id": "29"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21405",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "M.H. Tromplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 30
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766601.86798615, 6839982.60523275],
+            [766629.3572098, 6839994.8541719],
+            [766703.27990017, 6840029.31626777],
+            [766729.64483964, 6840040.5200149]
+          ]
+        ]
+      },
+      "id": "30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21427",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 31
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766521.20280409, 6840778.42879137],
+            [766533.01010012, 6840803.65939479],
+            [766600.36962276, 6840937.64698659],
+            [766601.83039989, 6840945.74215317]
+          ]
+        ]
+      },
+      "id": "31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21428",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 32
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765939.64563801, 6841144.89508146],
+            [765948.42880685, 6841127.13756627],
+            [766043.50459458, 6841062.58822036]
+          ]
+        ]
+      },
+      "id": "32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21429",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schuttersveld",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 33
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766049.96581511, 6840815.40146094],
+            [766063.94960453, 6840823.32439694],
+            [766167.92887518, 6840982.90714541]
+          ]
+        ]
+      },
+      "id": "33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21430",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 34
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766264.610297, 6840921.08709839],
+            [766363.4185591, 6840858.01346877],
+            [766454.75228002, 6840800.45361732],
+            [766481.62081872, 6840783.57455239]
+          ]
+        ]
+      },
+      "id": "34"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21432",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 35
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766481.62081872, 6840783.57455239],
+            [766507.11235428, 6840763.84891638],
+            [766526.51729012, 6840750.41764575],
+            [766544.89086009, 6840741.10138581],
+            [766637.71435813, 6840682.03265928],
+            [766648.70400426, 6840674.73157368],
+            [766660.945656, 6840665.17147878],
+            [766670.34235471, 6840652.69082783],
+            [766677.08752607, 6840637.66134294],
+            [766680.22447497, 6840627.7297993],
+            [766694.19069844, 6840624.68108868]
+          ]
+        ]
+      },
+      "id": "35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21794",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Cort van der Lindenlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 36
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765573.87402272, 6841202.97949616],
+            [765685.81173056, 6841137.52114742]
+          ]
+        ]
+      },
+      "id": "36"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21795",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 37
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765806.0663633, 6841019.68507601],
+            [765939.64563801, 6841144.89508146]
+          ]
+        ]
+      },
+      "id": "37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21796",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 38
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765581.74610626, 6841369.29952486],
+            [765583.95994167, 6841368.02527214],
+            [765597.78987088, 6841372.39460308]
+          ]
+        ]
+      },
+      "id": "38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21844",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "M.H. Tromplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 39
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766167.09274649, 6839939.46756596],
+            [766358.97853089, 6839970.76894551]
+          ]
+        ]
+      },
+      "id": "39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21845",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 40
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766601.83039989, 6840945.74215317],
+            [766629.64287741, 6841037.39826729]
+          ]
+        ]
+      },
+      "id": "40"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21846",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schuttersveld",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 41
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766145.57414199, 6840752.79930268],
+            [766200.25959127, 6840834.29527425],
+            [766230.03813015, 6840867.5709229],
+            [766264.610297, 6840921.08709839]
+          ]
+        ]
+      },
+      "id": "41"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21847",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Wagelerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 42
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765927.89175944, 6841155.74818236],
+            [765918.64086868, 6841173.11025362],
+            [765856.38548321, 6841215.72144665]
+          ]
+        ]
+      },
+      "id": "42"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21848",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 43
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766481.62081872, 6840783.57455239],
+            [766487.60530913, 6840794.7792663]
+          ]
+        ]
+      },
+      "id": "43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21862",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Joan Coststraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 44
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766311.32283285, 6841255.22848829],
+            [766317.52490149, 6841231.73084008],
+            [766326.7934397, 6841207.03440715],
+            [766342.30814111, 6841169.13969596],
+            [766359.85512088, 6841150.80654791],
+            [766391.89308087, 6841124.00525532],
+            [766601.83039989, 6840945.74215317]
+          ]
+        ]
+      },
+      "id": "44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21863",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 45
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766655.46743327, 6841370.44338445],
+            [766690.88413449, 6841304.20211931],
+            [766694.6382893, 6841293.92369084],
+            [766696.51787118, 6841284.72153012],
+            [766695.20321354, 6841262.7908865]
+          ]
+        ]
+      },
+      "id": "45"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21905",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Stationsplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 46
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766848.05929804, 6840330.44697182],
+            [766969.35476637, 6840351.84163684],
+            [766984.27054589, 6840258.56671153],
+            [766868.96430661, 6840238.5182742]
+          ]
+        ]
+      },
+      "id": "46"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21906",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Piet Heinstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 47
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767105.88945892, 6840160.01696323],
+            [767111.2385221, 6840165.84651772],
+            [767096.25451509, 6840248.81336559]
+          ]
+        ]
+      },
+      "id": "47"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21915",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Stationsplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 48
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767305.83213993, 6840449.50208993],
+            [767299.29793208, 6840484.95748001]
+          ]
+        ]
+      },
+      "id": "48"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21916",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 49
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767097.60479235, 6841141.52623359],
+            [767108.23617646, 6841104.14024307],
+            [767141.10941822, 6840986.09496904]
+          ]
+        ]
+      },
+      "id": "49"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21917",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schaddenspoor",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 50
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766800.59976211, 6841160.4650357],
+            [766836.69516248, 6841207.80338447],
+            [766881.22794749, 6841248.9548141],
+            [766924.45370685, 6841286.21422289]
+          ]
+        ]
+      },
+      "id": "50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21918",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 51
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767089.87415471, 6840591.74194585],
+            [767108.87934559, 6840585.12306712],
+            [767148.93041837, 6840578.93055698],
+            [767206.08264095, 6840574.11193966],
+            [767214.88610222, 6840577.64663921]
+          ]
+        ]
+      },
+      "id": "51"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21919",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Molenstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 52
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767386.90109014, 6840595.41394878],
+            [767381.59676698, 6840597.42748045],
+            [767348.20015993, 6840591.89931439],
+            [767322.96198041, 6840588.9666916],
+            [767291.69994061, 6840586.50569984],
+            [767283.39256854, 6840581.12141555]
+          ]
+        ]
+      },
+      "id": "52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "21929",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottendijk",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 53
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766974.72576565, 6841215.31991205],
+            [766988.20256628, 6841199.82578899]
+          ]
+        ]
+      },
+      "id": "53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "81380",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Minister Kuyperplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 54
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766413.16443505, 6841849.79906479],
+            [766432.32236124, 6841820.75404348]
+          ]
+        ]
+      },
+      "id": "54"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "81381",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Minister Kuyperplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 55
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766378.84948889, 6841846.41933759],
+            [766409.07969483, 6841799.99653718]
+          ]
+        ]
+      },
+      "id": "55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "34616",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Parkweg",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 56
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765739.00727747, 6840187.80281947],
+            [765781.13978715, 6840195.59094774],
+            [765824.22607723, 6840201.97729779],
+            [765865.07283389, 6840214.11033908]
+          ]
+        ]
+      },
+      "id": "56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "34619",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 57
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765597.78987088, 6841372.39460308],
+            [765592.7383879, 6841388.69327212],
+            [765592.25432117, 6841388.95901221]
+          ]
+        ]
+      },
+      "id": "57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "34621",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 58
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767187.50116079, 6840721.71041645],
+            [767206.27840677, 6840647.55746912]
+          ]
+        ]
+      },
+      "id": "58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "35356",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Parkweg",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 59
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766343.15493486, 6840243.38049948],
+            [766505.75454828, 6840272.84544077],
+            [766646.94886925, 6840297.95204005],
+            [766675.49926299, 6840303.69448067]
+          ]
+        ]
+      },
+      "id": "59"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "35591",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 60
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765739.00727747, 6840187.80281947],
+            [765738.90121726, 6840199.38767409]
+          ]
+        ]
+      },
+      "id": "60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "35592",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Westerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 61
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765597.78987088, 6841372.39460308],
+            [765642.39178884, 6841442.21349316],
+            [765656.33334177, 6841451.77884748],
+            [765714.09360654, 6841420.42525675],
+            [765845.64946157, 6841334.32218218],
+            [765906.56274732, 6841292.80494926]
+          ]
+        ]
+      },
+      "id": "61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "35593",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 62
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765856.38548321, 6841215.72144665],
+            [765773.60408551, 6841271.59793866],
+            [765713.49144081, 6841310.0687398],
+            [765612.35112341, 6841376.19012583],
+            [765597.78987088, 6841372.39460308]
+          ]
+        ]
+      },
+      "id": "62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "35596",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 63
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767141.10941822, 6840986.09496904],
+            [767147.70438838, 6840953.12749724],
+            [767154.63164084, 6840894.17442519],
+            [767158.63925027, 6840851.61817323],
+            [767161.72776898, 6840843.38609002],
+            [767166.34209545, 6840814.55898209]
+          ]
+        ]
+      },
+      "id": "63"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "35598",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 64
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767202.72569976, 6840725.13610837],
+            [767196.81553615, 6840744.09385039],
+            [767187.08975936, 6840791.41599523],
+            [767179.20646203, 6840794.71806262],
+            [767166.34209545, 6840814.55898209]
+          ]
+        ]
+      },
+      "id": "64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "36889",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "De Ruyterlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 65
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766672.03578786, 6840555.0416155],
+            [766677.40661523, 6840549.61152206],
+            [766676.15960667, 6840534.18933122],
+            [766693.72341718, 6840504.69644499]
+          ]
+        ]
+      },
+      "id": "65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "36890",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Minister De Savornin Lohmanlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 66
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766222.00643442, 6841827.59708769],
+            [766265.43021191, 6841788.26624885],
+            [766268.5872324, 6841783.29966644],
+            [766334.1629281, 6841723.12766656]
+          ]
+        ]
+      },
+      "id": "66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "37243",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Volksparktunnel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 67
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765738.90121726, 6840199.38767409],
+            [765741.33958398, 6840215.07389585],
+            [765733.42277608, 6840283.04466924],
+            [765732.10037031, 6840342.3892643]
+          ]
+        ]
+      },
+      "id": "67"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "37244",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Wagelerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 68
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765856.38548321, 6841215.72144665],
+            [765906.56274732, 6841292.80494926]
+          ]
+        ]
+      },
+      "id": "68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "37348",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Stationsplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 69
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766675.49926299, 6840303.69448067],
+            [766848.05929804, 6840330.44697182]
+          ]
+        ]
+      },
+      "id": "69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "37349",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Prinsessetunnel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 70
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766672.03578786, 6840555.0416155],
+            [766664.74155523, 6840489.84469462],
+            [766660.6895489, 6840439.79367659],
+            [766654.33362012, 6840348.99319527],
+            [766655.2907024, 6840328.57301585],
+            [766662.60148892, 6840310.96134478],
+            [766675.49926299, 6840303.69448067]
+          ]
+        ]
+      },
+      "id": "70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "37350",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Wagelerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 71
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765906.56274732, 6841292.80494926],
+            [765929.49567758, 6841326.46017039]
+          ]
+        ]
+      },
+      "id": "71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "37451",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Willem Wilminkplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 72
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767354.53318087, 6840463.66993151],
+            [767340.24589477, 6840458.54075025],
+            [767305.83213993, 6840449.50208993]
+          ]
+        ]
+      },
+      "id": "72"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "37583",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "De Ruyterlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 73
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766729.64483964, 6840040.5200149],
+            [766728.04148798, 6840030.80512889],
+            [766736.65540728, 6840006.88657705],
+            [766753.39152741, 6839969.17380242],
+            [766770.44236135, 6839933.13865214],
+            [766778.39717295, 6839916.44580783]
+          ]
+        ]
+      },
+      "id": "73"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "37584",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "De Ruyterlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 74
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766786.75086563, 6839918.9798728],
+            [766761.29270606, 6839971.81927978],
+            [766751.7631809, 6839992.10448405],
+            [766742.3031768, 6840015.75961999],
+            [766735.50124323, 6840034.40065066],
+            [766729.64483964, 6840040.5200149]
+          ]
+        ]
+      },
+      "id": "74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "37587",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Lasondersingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 75
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767180.72632876, 6841483.05241438],
+            [767213.73388374, 6841469.89480871]
+          ]
+        ]
+      },
+      "id": "75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "38333",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Spoordijkstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 76
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765708.0497051, 6840295.69465577],
+            [765692.10300179, 6840293.92611536],
+            [765613.98289804, 6840281.75925079]
+          ]
+        ]
+      },
+      "id": "76"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "38389",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 77
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766694.19069844, 6840624.68108868],
+            [766702.06806032, 6840638.69502828],
+            [766699.38409861, 6840650.67870792],
+            [766692.41199229, 6840663.79027905],
+            [766681.26367296, 6840675.08542308],
+            [766665.61884364, 6840685.78283974],
+            [766641.75884051, 6840696.97240629]
+          ]
+        ]
+      },
+      "id": "77"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "38390",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 78
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766641.75884051, 6840696.97240629],
+            [766556.85678283, 6840751.74096693],
+            [766521.20280409, 6840778.42879137]
+          ]
+        ]
+      },
+      "id": "78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "38723",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Parkweg",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 79
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765865.07283389, 6840214.11033908],
+            [765784.90991084, 6840209.63584217],
+            [765738.90121726, 6840199.38767409]
+          ]
+        ]
+      },
+      "id": "79"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "39510",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Van der Capellenstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 80
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766492.33490391, 6841332.66468678],
+            [766500.00784298, 6841309.63445876]
+          ]
+        ]
+      },
+      "id": "80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "40012",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottenhof",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 81
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766796.22435379, 6841594.75347302],
+            [766838.86913419, 6841617.54568696]
+          ]
+        ]
+      },
+      "id": "81"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "40367",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Molenpad",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 82
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766842.5795785, 6841125.93432774],
+            [766899.21231757, 6841207.3628605],
+            [766914.90801982, 6841220.77577555]
+          ]
+        ]
+      },
+      "id": "82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "40566",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Walhofstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 83
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766306.12332282, 6841272.02055059],
+            [766304.0422903, 6841289.18755968],
+            [766309.19781004, 6841302.15010431],
+            [766320.96960721, 6841319.87670833],
+            [766476.15466689, 6841496.36785725],
+            [766502.85638873, 6841526.8549205]
+          ]
+        ]
+      },
+      "id": "83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "40586",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Prinsestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 84
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766606.81169309, 6839868.871655],
+            [766611.22920586, 6839882.03165572],
+            [766614.90491164, 6839901.38769988],
+            [766616.04175649, 6839914.00646982],
+            [766615.38858068, 6839937.55049727],
+            [766612.23019971, 6839956.3852078],
+            [766601.86798615, 6839982.60523275]
+          ]
+        ]
+      },
+      "id": "84"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "40592",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 85
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767283.39256854, 6840581.12141555],
+            [767286.83112146, 6840572.49349229],
+            [767299.29793208, 6840484.95748001]
+          ]
+        ]
+      },
+      "id": "85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "40593",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 86
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766982.49096616, 6841552.8440522],
+            [766987.43642312, 6841532.57154195]
+          ]
+        ]
+      },
+      "id": "86"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "41631",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Lasondersingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 87
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767188.05958523, 6841501.17903196],
+            [767120.439587, 6841525.4707408]
+          ]
+        ]
+      },
+      "id": "87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "41665",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Parallelweg",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 88
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767370.0208577, 6840510.56865893],
+            [767324.1487129, 6840503.49810129],
+            [767309.38916366, 6840498.90490659],
+            [767299.29793208, 6840484.95748001]
+          ]
+        ]
+      },
+      "id": "88"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "42009",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 89
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765748.01191528, 6840715.84825538],
+            [765767.11426508, 6840852.67250003]
+          ]
+        ]
+      },
+      "id": "89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "42010",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Cort van der Lindenlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 90
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765513.34044684, 6841241.32153748],
+            [765520.79207646, 6841236.74580086]
+          ]
+        ]
+      },
+      "id": "90"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "42803",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkamppad",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 91
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766656.93230796, 6840986.56488224],
+            [766761.90746969, 6841062.93887586]
+          ]
+        ]
+      },
+      "id": "91"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "42981",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Stationsplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 92
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766894.79883475, 6840106.44157323],
+            [766892.40939783, 6840130.76382377],
+            [766881.95073091, 6840187.76879533],
+            [766873.88430006, 6840228.08131441],
+            [766868.96430661, 6840238.5182742]
+          ]
+        ]
+      },
+      "id": "92"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "43004",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 93
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765927.89175944, 6841155.74818236],
+            [765939.64563801, 6841144.89508146]
+          ]
+        ]
+      },
+      "id": "93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "43005",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 94
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766167.92887518, 6840982.90714541],
+            [766264.610297, 6840921.08709839]
+          ]
+        ]
+      },
+      "id": "94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "43006",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 95
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766271.50961813, 6840931.22773909],
+            [766240.16755632, 6840951.04954768],
+            [766110.88370856, 6841034.13667434],
+            [766085.4449802, 6841052.16001009],
+            [766046.01228261, 6841080.33784525],
+            [766016.77499356, 6841103.27995288],
+            [765964.64810018, 6841141.77148203],
+            [765939.64563801, 6841144.89508146]
+          ]
+        ]
+      },
+      "id": "95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "44430",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Minister Goeman Borgesiusstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 96
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766409.07969483, 6841799.99653718],
+            [766424.04302823, 6841814.39047606]
+          ]
+        ]
+      },
+      "id": "96"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "44838",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Lasonderstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 97
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767209.47775783, 6841182.18165577],
+            [767226.67281106, 6841304.34739326]
+          ]
+        ]
+      },
+      "id": "97"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "45436",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Molenstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 98
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767386.90109014, 6840595.41394878],
+            [767396.53205166, 6840597.964353]
+          ]
+        ]
+      },
+      "id": "98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "45453",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Noordenlooplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 99
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766695.20321354, 6841262.7908865],
+            [766721.143177, 6841253.135357]
+          ]
+        ]
+      },
+      "id": "99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "45471",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Cort van der Lindenlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 100
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765685.81173056, 6841137.52114742],
+            [765698.96999946, 6841127.19816808],
+            [765725.71085711, 6841103.8888072],
+            [765738.43748281, 6841091.11775299],
+            [765796.26692947, 6841031.44497934]
+          ]
+        ]
+      },
+      "id": "100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "42552",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Minister De Savornin Lohmanlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 101
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766334.1629281, 6841723.12766656],
+            [766364.54066838, 6841694.72526028],
+            [766422.13864121, 6841642.88695956],
+            [766521.24550439, 6841549.34573647]
+          ]
+        ]
+      },
+      "id": "101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "43032",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Molenstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 102
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767283.39256854, 6840581.12141555],
+            [767292.48717428, 6840574.55975614],
+            [767323.77781882, 6840578.40373125],
+            [767383.89588138, 6840591.84686909],
+            [767386.90109014, 6840595.41394878]
+          ]
+        ]
+      },
+      "id": "102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "46420",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Volksparktunnel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 103
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765708.0497051, 6840295.69465577],
+            [765720.30071636, 6840222.87948716],
+            [765717.63462742, 6840213.48340005],
+            [765712.13510077, 6840205.98989888],
+            [765701.67281339, 6840200.32853838],
+            [765691.27434798, 6840197.77754145],
+            [765684.76629813, 6840195.50942822]
+          ]
+        ]
+      },
+      "id": "103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "46815",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Minister Goeman Borgesiusstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 104
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766424.04302823, 6841814.39047606],
+            [766432.32236124, 6841820.75404348]
+          ]
+        ]
+      },
+      "id": "104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "47284",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Walhofplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 105
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766858.28825523, 6841753.22006178],
+            [766896.80376235, 6841618.60371315]
+          ]
+        ]
+      },
+      "id": "105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "47368",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Mr. Troelstrastraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 106
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766424.04302823, 6841814.39047606],
+            [766598.02712122, 6841637.60862886]
+          ]
+        ]
+      },
+      "id": "106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "47818",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 107
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765750.86023152, 6840854.64133999],
+            [765768.08825997, 6840978.72536538],
+            [765772.36464323, 6840994.07948915],
+            [765779.77245047, 6841011.23787366],
+            [765788.19124422, 6841023.34884499],
+            [765796.26692947, 6841031.44497934]
+          ]
+        ]
+      },
+      "id": "107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "47826",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Joan Coststraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 108
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766306.12332282, 6841272.02055059],
+            [766311.32283285, 6841255.22848829]
+          ]
+        ]
+      },
+      "id": "108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "47866",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Stationsplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 109
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767166.47860935, 6840402.09571298],
+            [767298.23199452, 6840444.35147974],
+            [767305.83213993, 6840449.50208993]
+          ]
+        ]
+      },
+      "id": "109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "47867",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkamplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 110
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766888.06959315, 6841088.51592495],
+            [766974.72576565, 6841215.31991205]
+          ]
+        ]
+      },
+      "id": "110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "48617",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Volksparktunnel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 111
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765718.7963671, 6840345.06808449],
+            [765722.39896211, 6840285.43796745],
+            [765726.3736344, 6840257.20516234],
+            [765731.50748803, 6840224.80124574],
+            [765733.42598312, 6840213.56446746],
+            [765738.90121726, 6840199.38767409]
+          ]
+        ]
+      },
+      "id": "111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "74884",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 112
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766648.28827663, 6841388.24410588],
+            [766655.46743327, 6841370.44338445]
+          ]
+        ]
+      },
+      "id": "112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "48658",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Wagelerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 113
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765929.49567758, 6841326.46017039],
+            [765974.16405916, 6841394.78558241]
+          ]
+        ]
+      },
+      "id": "113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "51237",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "De Ruyterlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 114
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766694.19069844, 6840624.68108868],
+            [766677.05913577, 6840606.28199535],
+            [766672.03578786, 6840555.0416155]
+          ]
+        ]
+      },
+      "id": "114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "51671",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 115
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766502.85638873, 6841526.8549205],
+            [766566.90042572, 6841471.61567524],
+            [766603.6908231, 6841438.17923983],
+            [766617.91268257, 6841416.64649903],
+            [766625.7201004, 6841400.14782661],
+            [766625.58534167, 6841393.61591528],
+            [766648.28827663, 6841388.24410588]
+          ]
+        ]
+      },
+      "id": "115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "52700",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "M.H. Tromplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 116
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766729.64483964, 6840040.5200149],
+            [766756.21733791, 6840050.88308109],
+            [766833.2381952, 6840084.38973689],
+            [766877.45722927, 6840101.03083685],
+            [766894.79883475, 6840106.44157323]
+          ]
+        ]
+      },
+      "id": "116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "52725",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Fortuinstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 117
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766343.29417715, 6840425.8516806],
+            [766336.51165733, 6840425.32234533],
+            [766330.66199067, 6840427.12917524],
+            [766322.37792799, 6840433.20240184],
+            [766313.41122706, 6840446.8756513],
+            [766303.45164566, 6840469.1469074],
+            [766290.96012587, 6840495.54127219],
+            [766289.53314826, 6840505.37177271],
+            [766298.04636255, 6840523.16408508],
+            [766349.44358372, 6840566.20492718],
+            [766357.88973163, 6840580.73167645],
+            [766473.72540937, 6840769.93787486],
+            [766481.62081872, 6840783.57455239]
+          ]
+        ]
+      },
+      "id": "117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "52758",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Stationsplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 118
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766868.96430661, 6840238.5182742],
+            [766853.99384649, 6840326.92125349],
+            [766848.05929804, 6840330.44697182]
+          ]
+        ]
+      },
+      "id": "118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "53586",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 119
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767206.27840677, 6840647.55746912],
+            [767214.13631474, 6840620.13370439],
+            [767216.88664309, 6840595.57368104],
+            [767214.88610222, 6840577.64663921]
+          ]
+        ]
+      },
+      "id": "119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "53740",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 120
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767206.27840677, 6840647.55746912],
+            [767217.0496294, 6840662.00080389],
+            [767218.11310823, 6840675.59089592],
+            [767209.54807695, 6840703.25499267],
+            [767202.72569976, 6840725.13610837]
+          ]
+        ]
+      },
+      "id": "120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "50050",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkamplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 121
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766804.46949056, 6841028.29050967],
+            [766888.06959315, 6841088.51592495]
+          ]
+        ]
+      },
+      "id": "121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "50264",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Wijbo Fijnjestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 122
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766601.83039989, 6840945.74215317],
+            [766644.17538176, 6840912.81325871]
+          ]
+        ]
+      },
+      "id": "122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "54789",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Dr. Schaepmanlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 123
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765445.16857671, 6840969.57477407],
+            [765452.21633995, 6840991.4819601],
+            [765465.42431453, 6841079.42442885],
+            [765467.03340534, 6841093.87193002]
+          ]
+        ]
+      },
+      "id": "123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "55263",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Stadsmatenstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 124
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766024.01961312, 6840194.63588565],
+            [766022.87598311, 6840161.82757215],
+            [766023.94255416, 6840145.38961682],
+            [766027.67224963, 6840133.35264562],
+            [766043.35368036, 6840102.09825302],
+            [766071.49353027, 6840044.34746918],
+            [766167.09274649, 6839939.46756596]
+          ]
+        ]
+      },
+      "id": "124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "55264",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Parkweg",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 125
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766024.01961312, 6840194.63588565],
+            [766061.08049729, 6840193.87013619],
+            [766081.01236104, 6840196.2710071],
+            [766343.15493486, 6840243.38049948]
+          ]
+        ]
+      },
+      "id": "125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "55291",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 126
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767214.88610222, 6840577.64663921],
+            [767224.16989787, 6840573.21612471],
+            [767272.96509396, 6840572.89157218],
+            [767283.39256854, 6840581.12141555]
+          ]
+        ]
+      },
+      "id": "126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "55292",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 127
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766790.94269281, 6840646.29104567],
+            [766813.55101413, 6840648.75231874],
+            [766841.181284, 6840648.77332403],
+            [766880.65739885, 6840646.66805845]
+          ]
+        ]
+      },
+      "id": "127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "55294",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 128
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766987.43642312, 6841532.57154195],
+            [767034.12438686, 6841370.43131256],
+            [767054.60223772, 6841295.47294575]
+          ]
+        ]
+      },
+      "id": "128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "56661",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiastraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 129
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765437.15766897, 6840815.37894152],
+            [765437.20250967, 6840815.36509316],
+            [765614.9584912, 6840743.09457517]
+          ]
+        ]
+      },
+      "id": "129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "74846",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottendijk",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 130
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766806.20990641, 6841460.11693837],
+            [766817.03902631, 6841444.99944178]
+          ]
+        ]
+      },
+      "id": "130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "57669",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottendijk",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 131
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766817.03902631, 6841444.99944178],
+            [766878.2394662, 6841353.21974426]
+          ]
+        ]
+      },
+      "id": "131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "57217",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schuttersveld",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 132
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765980.61011032, 6840803.4913907],
+            [766049.96581511, 6840815.40146094]
+          ]
+        ]
+      },
+      "id": "132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "57668",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Haverschmidtstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 133
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767130.39556225, 6841376.59800698],
+            [767157.16693109, 6841410.34839332],
+            [767241.46482261, 6841395.9824387]
+          ]
+        ]
+      },
+      "id": "133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "57687",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kortenaerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 134
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766358.97853089, 6839970.76894551],
+            [766364.58823767, 6839955.19280275],
+            [766374.08888201, 6839916.77170635],
+            [766379.81693482, 6839888.27811731],
+            [766381.82028982, 6839860.56572099],
+            [766381.7000468, 6839856.91751126]
+          ]
+        ]
+      },
+      "id": "134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "58695",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Noorderbaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 135
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766641.75884051, 6840696.97240629],
+            [766659.79408999, 6840729.4701015],
+            [766741.79682553, 6840846.54149043],
+            [766797.7860195, 6840927.32781637],
+            [766906.48377337, 6841084.30102408],
+            [766979.89357452, 6841189.9695503],
+            [766988.20256628, 6841199.82578899]
+          ]
+        ]
+      },
+      "id": "135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "58750",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "De Ruyterlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 136
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766693.72341718, 6840504.69644499],
+            [766700.7170589, 6840574.5012981],
+            [766702.92831167, 6840610.58714716],
+            [766694.19069844, 6840624.68108868]
+          ]
+        ]
+      },
+      "id": "136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "59090",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Thorbeckelaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 137
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765604.8748928, 6840887.05536293],
+            [765630.15553656, 6841007.41948898],
+            [765632.01873257, 6841018.81626074]
+          ]
+        ]
+      },
+      "id": "137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "59091",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiastraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 138
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765614.9584912, 6840743.09457517],
+            [765733.38687877, 6840717.78343142]
+          ]
+        ]
+      },
+      "id": "138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "59669",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Dr. Benthemstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 139
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767173.08877032, 6841014.87374221],
+            [767420.2127398, 6840987.42369454]
+          ]
+        ]
+      },
+      "id": "139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "60067",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Van Galenstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 140
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766901.43138467, 6839996.1190966],
+            [766940.39091097, 6840014.7375048],
+            [766979.37426632, 6840028.90425107],
+            [767013.95187078, 6840040.70186946]
+          ]
+        ]
+      },
+      "id": "140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "61102",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Wagelerdwarsstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 141
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765929.49567758, 6841326.46017039],
+            [766005.4781765, 6841274.07112825]
+          ]
+        ]
+      },
+      "id": "141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "62064",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Waterboerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 142
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765872.66432024, 6840439.21420894],
+            [765758.61369802, 6840437.13751915]
+          ]
+        ]
+      },
+      "id": "142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "74873",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Parkweg",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 143
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765688.151375, 6840191.38470011],
+            [765738.90121726, 6840199.38767409]
+          ]
+        ]
+      },
+      "id": "143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "62541",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 144
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765725.30920849, 6840567.03216746],
+            [765714.54109363, 6840550.30007639],
+            [765713.08959385, 6840519.89789132],
+            [765718.7963671, 6840345.06808449]
+          ]
+        ]
+      },
+      "id": "144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "62552",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Lasonderstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 145
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767241.46482261, 6841395.9824387],
+            [767246.52834944, 6841429.93463662]
+          ]
+        ]
+      },
+      "id": "145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "62572",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 146
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766487.60530913, 6840794.7792663],
+            [766271.50961813, 6840931.22773909]
+          ]
+        ]
+      },
+      "id": "146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "62594",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Lasonderstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 147
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767226.67281106, 6841304.34739326],
+            [767241.46482261, 6841395.9824387]
+          ]
+        ]
+      },
+      "id": "147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "59077",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 148
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766629.64287741, 6841037.39826729],
+            [766659.38762144, 6841136.43190421],
+            [766659.58979219, 6841146.22946231]
+          ]
+        ]
+      },
+      "id": "148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "63473",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 149
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765732.10037031, 6840342.3892643],
+            [765729.57669445, 6840455.55117312],
+            [765730.639113, 6840549.01576323],
+            [765725.30920849, 6840567.03216746]
+          ]
+        ]
+      },
+      "id": "149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "63650",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Prinsessetunnel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 150
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766675.49926299, 6840303.69448067],
+            [766683.3387297, 6840313.12517957],
+            [766683.38213508, 6840331.96624934],
+            [766693.72341718, 6840504.69644499]
+          ]
+        ]
+      },
+      "id": "150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "64563",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schuttersveld",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 151
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765917.89516338, 6840844.19939134],
+            [765980.61011032, 6840803.4913907]
+          ]
+        ]
+      },
+      "id": "151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "74883",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "M.H. Tromplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 152
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766358.97853089, 6839970.76894551],
+            [766421.65383467, 6839958.70069471],
+            [766503.14967343, 6839960.27937119],
+            [766545.62717079, 6839965.93272114],
+            [766565.27103885, 6839970.42576019],
+            [766601.86798615, 6839982.60523275]
+          ]
+        ]
+      },
+      "id": "152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "65025",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 153
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766694.19069844, 6840624.68108868],
+            [766708.68913471, 6840616.94617855],
+            [766755.05743725, 6840632.7538667],
+            [766767.9276421, 6840638.01953473],
+            [766781.10938844, 6840641.72197048],
+            [766790.94269281, 6840646.29104567]
+          ]
+        ]
+      },
+      "id": "153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "65026",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 154
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766695.20321354, 6841262.7908865],
+            [766659.58979219, 6841146.22946231]
+          ]
+        ]
+      },
+      "id": "154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "74888",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 155
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766790.94269281, 6840646.29104567],
+            [766778.39363745, 6840649.3987313],
+            [766709.0142511, 6840633.25014736],
+            [766694.19069844, 6840624.68108868]
+          ]
+        ]
+      },
+      "id": "155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "65852",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Parkweg",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 156
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765697.03281674, 6840180.56263204],
+            [765739.00727747, 6840187.80281947]
+          ]
+        ]
+      },
+      "id": "156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "66802",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Bosboom-Toussaintstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 157
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767169.76489367, 6841310.4324203],
+            [767174.20498683, 6841345.6827432],
+            [767157.81879648, 6841346.02361513],
+            [767140.84374893, 6841317.98850638]
+          ]
+        ]
+      },
+      "id": "157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "67375",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottendijk",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 158
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766878.2394662, 6841353.21974426],
+            [766924.45370685, 6841286.21422289]
+          ]
+        ]
+      },
+      "id": "158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "68302",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 159
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767166.34209545, 6840814.55898209],
+            [767170.384952, 6840789.29847819],
+            [767187.50116079, 6840721.71041645]
+          ]
+        ]
+      },
+      "id": "159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "68432",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 160
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767187.50116079, 6840721.71041645],
+            [767202.72569976, 6840725.13610837]
+          ]
+        ]
+      },
+      "id": "160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "68433",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Noorderbaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 161
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767180.72632876, 6841483.05241438],
+            [767194.39110337, 6841493.46405478]
+          ]
+        ]
+      },
+      "id": "161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "68525",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Lasondersingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 162
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767120.439587, 6841525.4707408],
+            [766997.1171976, 6841550.90640095],
+            [766982.49096616, 6841552.8440522]
+          ]
+        ]
+      },
+      "id": "162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "68896",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Richtersweg",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 163
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765457.56767557, 6840640.95000346],
+            [765594.23027599, 6840606.30535734]
+          ]
+        ]
+      },
+      "id": "163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "68897",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Penninkstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 164
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765594.23027599, 6840606.30535734],
+            [765614.9584912, 6840743.09457517]
+          ]
+        ]
+      },
+      "id": "164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "69411",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "De Genestetstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 165
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767209.47775783, 6841182.18165577],
+            [767215.95920123, 6841180.41315465],
+            [767242.02019752, 6841179.87082302],
+            [767372.2253552, 6841185.78169105]
+          ]
+        ]
+      },
+      "id": "165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "69759",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "R.J. Schimmelpenninckstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 166
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766761.90746969, 6841062.93887586],
+            [766804.46949056, 6841028.29050967]
+          ]
+        ]
+      },
+      "id": "166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "69910",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Brammelerdwarsstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 167
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767166.47860935, 6840402.09571298],
+            [767183.78725397, 6840334.87112501],
+            [767183.12870439, 6840327.8511293],
+            [767178.3721997, 6840300.67128941],
+            [767169.46300821, 6840282.7236282],
+            [767183.22306776, 6840228.74101737],
+            [767187.41514707, 6840201.65332218]
+          ]
+        ]
+      },
+      "id": "167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "69912",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottendijk",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 168
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766988.20256628, 6841199.82578899],
+            [766995.36158433, 6841187.40024078],
+            [767037.53214725, 6841133.44550816],
+            [767044.17917796, 6841129.67742525],
+            [767054.71617757, 6841130.49573608],
+            [767097.60479235, 6841141.52623359]
+          ]
+        ]
+      },
+      "id": "168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "69926",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 169
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765597.78987088, 6841372.39460308],
+            [765603.04444639, 6841357.02133345],
+            [765687.59287656, 6841305.76225328],
+            [765737.16375222, 6841278.30751526],
+            [765786.4667284, 6841246.9471426],
+            [765823.04155315, 6841219.5739392],
+            [765849.89288801, 6841200.21828273],
+            [765908.83018629, 6841156.55995931],
+            [765927.89175944, 6841155.74818236]
+          ]
+        ]
+      },
+      "id": "169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "69936",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schuttersveld",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 170
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765917.89516338, 6840844.19939134],
+            [765925.60654195, 6840873.90503055],
+            [766036.37023856, 6841051.15172937],
+            [766043.50459458, 6841062.58822036]
+          ]
+        ]
+      },
+      "id": "170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "69956",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 171
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765796.26692947, 6841031.44497934],
+            [765884.93134259, 6841114.88302663],
+            [765927.89175944, 6841155.74818236]
+          ]
+        ]
+      },
+      "id": "171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "69958",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kortenaerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 172
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766343.15493486, 6840243.38049948],
+            [766346.97706898, 6840224.53966824],
+            [766345.528887, 6840074.71759614],
+            [766347.90440104, 6840031.04995977],
+            [766355.14176155, 6839984.93636379],
+            [766358.97853089, 6839970.76894551]
+          ]
+        ]
+      },
+      "id": "172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "69963",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Ariënsplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 173
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766794.94182598, 6839945.69563737],
+            [766901.43138467, 6839996.1190966]
+          ]
+        ]
+      },
+      "id": "173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "71341",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Walhofstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 174
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766521.24550439, 6841549.34573647],
+            [766598.02712122, 6841637.60862886]
+          ]
+        ]
+      },
+      "id": "174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "71764",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Bosboom-Toussaintstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 175
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767226.67281106, 6841304.34739326],
+            [767169.76489367, 6841310.4324203]
+          ]
+        ]
+      },
+      "id": "175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "71787",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottendijk",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 176
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766740.15071211, 6841561.16483013],
+            [766806.20990641, 6841460.11693837]
+          ]
+        ]
+      },
+      "id": "176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "71903",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schuttersveld",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 177
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765904.59849066, 6840724.95349921],
+            [765926.10178319, 6840716.85640281],
+            [765931.27194121, 6840719.31593667],
+            [765932.8589028, 6840721.84945716],
+            [765980.61011032, 6840803.4913907]
+          ]
+        ]
+      },
+      "id": "177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "71926",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Lasonderstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 178
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767190.17491901, 6841115.6045203],
+            [767209.47775783, 6841182.18165577]
+          ]
+        ]
+      },
+      "id": "178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "68303",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Noorderbaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 179
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767180.72632876, 6841483.05241438],
+            [767170.60032986, 6841471.80270779],
+            [767067.21088705, 6841317.65403534],
+            [767054.60223772, 6841295.47294575]
+          ]
+        ]
+      },
+      "id": "179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "73435",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Lasondersingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 180
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766987.43642312, 6841532.57154195],
+            [767000.41480718, 6841531.88034039],
+            [767016.23786238, 6841529.8213978],
+            [767043.18545239, 6841523.55638301],
+            [767180.72632876, 6841483.05241438]
+          ]
+        ]
+      },
+      "id": "180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "73848",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiastraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 181
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765733.38687877, 6840717.78343142],
+            [765748.01191528, 6840715.84825538]
+          ]
+        ]
+      },
+      "id": "181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "74422",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schuttersveld",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 182
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765865.75278096, 6840549.42978672],
+            [765870.6333787, 6840633.32098864],
+            [765879.16742774, 6840675.57074688],
+            [765895.48636467, 6840705.41828559],
+            [765904.59849066, 6840724.95349921]
+          ]
+        ]
+      },
+      "id": "182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "74423",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schuttersveld",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 183
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765904.59849066, 6840724.95349921],
+            [765908.39852422, 6840750.1100005],
+            [765916.86182382, 6840840.22013099],
+            [765917.89516338, 6840844.19939134]
+          ]
+        ]
+      },
+      "id": "183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "75809",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Noorderbaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 184
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766988.20256628, 6841199.82578899],
+            [767016.79923525, 6841223.95173943],
+            [767044.92672031, 6841258.94791281],
+            [767054.60223772, 6841295.47294575]
+          ]
+        ]
+      },
+      "id": "184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "76135",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 185
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766968.81000205, 6841600.50602037],
+            [766982.49096616, 6841552.8440522]
+          ]
+        ]
+      },
+      "id": "185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "76196",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Cort van der Lindenlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 186
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765520.79207646, 6841236.74580086],
+            [765538.47495144, 6841224.94607253]
+          ]
+        ]
+      },
+      "id": "186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "76763",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Waterboerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 187
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765865.75278096, 6840549.42978672],
+            [765872.66432024, 6840439.21420894]
+          ]
+        ]
+      },
+      "id": "187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "77204",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Piet Heinstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 188
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767096.25451509, 6840248.81336559],
+            [767085.67348485, 6840307.40318019],
+            [767080.00154352, 6840309.75567913]
+          ]
+        ]
+      },
+      "id": "188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "77219",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "De Ruyterlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 189
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766675.49926299, 6840303.69448067],
+            [766682.29710257, 6840276.86284322],
+            [766700.71321236, 6840163.09559397],
+            [766707.74426771, 6840121.44442113],
+            [766720.2426167, 6840070.3744881],
+            [766729.64483964, 6840040.5200149]
+          ]
+        ]
+      },
+      "id": "189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "77241",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 190
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766521.20280409, 6840778.42879137],
+            [766504.89349357, 6840786.79074465],
+            [766487.60530913, 6840794.7792663]
+          ]
+        ]
+      },
+      "id": "190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "72213",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Molenpad",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 191
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766796.54216344, 6841088.4199375],
+            [766842.5795785, 6841125.93432774]
+          ]
+        ]
+      },
+      "id": "191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "72428",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Hengelosestraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 192
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766043.50459458, 6841062.58822036],
+            [766167.92887518, 6840982.90714541]
+          ]
+        ]
+      },
+      "id": "192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "80726",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 193
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766492.33490391, 6841332.66468678],
+            [766571.09207215, 6841358.80487568],
+            [766648.28827663, 6841388.24410588]
+          ]
+        ]
+      },
+      "id": "193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "80745",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Van Kolstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 194
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765467.97993141, 6841096.99220831],
+            [765488.32791043, 6841083.85361981],
+            [765632.01873257, 6841018.81626074]
+          ]
+        ]
+      },
+      "id": "194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "79873",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Parkweg",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 195
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765865.07283389, 6840214.11033908],
+            [765882.22146435, 6840215.0663911],
+            [765943.14339366, 6840208.96873666],
+            [766024.01961312, 6840194.63588565]
+          ]
+        ]
+      },
+      "id": "195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "81169",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 196
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766806.20990641, 6841460.11693837],
+            [766966.10080157, 6841548.28349407],
+            [766982.49096616, 6841552.8440522]
+          ]
+        ]
+      },
+      "id": "196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "81777",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 197
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766817.03902631, 6841444.99944178],
+            [766871.37948839, 6841476.12023544],
+            [766919.73518822, 6841504.33622644],
+            [766952.40520502, 6841520.42911063],
+            [766969.80442919, 6841527.84729919],
+            [766987.43642312, 6841532.57154195]
+          ]
+        ]
+      },
+      "id": "197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "81793",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 198
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766306.12332282, 6841272.02055059],
+            [766397.15524568, 6841300.32926538]
+          ]
+        ]
+      },
+      "id": "198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "81812",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 199
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766500.00784298, 6841309.63445876],
+            [766655.46743327, 6841370.44338445]
+          ]
+        ]
+      },
+      "id": "199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "82672",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Niermansgang",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 200
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767385.1360319, 6840811.84567468],
+            [767388.21986617, 6840767.23271739],
+            [767389.28344811, 6840702.03372707]
+          ]
+        ]
+      },
+      "id": "200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "82673",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Niermansgang",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 201
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767385.1360319, 6840811.84567468],
+            [767408.50289565, 6840816.12402657],
+            [767430.41406429, 6840819.76969551]
+          ]
+        ]
+      },
+      "id": "201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "82703",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 202
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765939.64563801, 6841144.89508146],
+            [765973.76374124, 6841169.69301502],
+            [765998.25471288, 6841186.87118948],
+            [766017.60765629, 6841198.01137614],
+            [766051.55511426, 6841209.96900851],
+            [766076.7605426, 6841216.70801533],
+            [766110.31700884, 6841223.27432836],
+            [766153.36422069, 6841226.29368007]
+          ]
+        ]
+      },
+      "id": "202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "82707",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Niermansgang",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 203
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767348.20759944, 6840703.77132854],
+            [767347.02711291, 6840766.48975777],
+            [767269.69414335, 6840764.43574567],
+            [767270.56782084, 6840718.34501132]
+          ]
+        ]
+      },
+      "id": "203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "82745",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Niermansgang",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 204
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767389.28344811, 6840702.03372707],
+            [767348.20759944, 6840703.77132854]
+          ]
+        ]
+      },
+      "id": "204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "83032",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 205
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766311.32283285, 6841255.22848829],
+            [766403.23323394, 6841278.96590271]
+          ]
+        ]
+      },
+      "id": "205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "83569",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Niermansgang",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 206
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767348.20759944, 6840703.77132854],
+            [767304.92299542, 6840700.35351712]
+          ]
+        ]
+      },
+      "id": "206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "83744",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 207
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766403.23323394, 6841278.96590271],
+            [766500.00784298, 6841309.63445876]
+          ]
+        ]
+      },
+      "id": "207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "84215",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Niermansgang",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 208
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767386.90109014, 6840595.41394878],
+            [767387.35365549, 6840644.29748568],
+            [767390.74642242, 6840650.76092827],
+            [767389.28344811, 6840702.03372707]
+          ]
+        ]
+      },
+      "id": "208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "84401",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 209
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766150.62022339, 6841246.02274159],
+            [766117.16062833, 6841244.33100051],
+            [766074.28795605, 6841236.49022682],
+            [766042.49870926, 6841225.6054649],
+            [766007.18421864, 6841210.32705452],
+            [765977.85328471, 6841192.50388866],
+            [765953.36071006, 6841175.32567371],
+            [765927.89175944, 6841155.74818236]
+          ]
+        ]
+      },
+      "id": "209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "84477",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 210
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766655.46743327, 6841370.44338445],
+            [766690.35565119, 6841383.05379765],
+            [766725.66750317, 6841397.70882291],
+            [766766.24390988, 6841416.75035749],
+            [766803.04992223, 6841436.9073891],
+            [766817.03902631, 6841444.99944178]
+          ]
+        ]
+      },
+      "id": "210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "84555",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 211
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766397.15524568, 6841300.32926538],
+            [766492.33490391, 6841332.66468678]
+          ]
+        ]
+      },
+      "id": "211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "84879",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 212
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766648.28827663, 6841388.24410588],
+            [766720.56474136, 6841416.15110172],
+            [766781.47334783, 6841445.92718259],
+            [766806.20990641, 6841460.11693837]
+          ]
+        ]
+      },
+      "id": "212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "85001",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 213
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766153.36422069, 6841226.29368007],
+            [766150.62022339, 6841246.02274159]
+          ]
+        ]
+      },
+      "id": "213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "85173",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Oltmansstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 214
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767166.34209545, 6840814.55898209],
+            [767385.1360319, 6840811.84567468]
+          ]
+        ]
+      },
+      "id": "214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "85325",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 215
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766153.36422069, 6841226.29368007],
+            [766215.92937279, 6841230.39736029],
+            [766241.26324341, 6841234.34131945],
+            [766271.88280987, 6841242.45598248],
+            [766311.32283285, 6841255.22848829]
+          ]
+        ]
+      },
+      "id": "215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "85431",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Noordendorplaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 216
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766721.143177, 6841253.135357],
+            [766878.2394662, 6841353.21974426]
+          ]
+        ]
+      },
+      "id": "216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "85498",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Boddenkampsingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 217
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766306.12332282, 6841272.02055059],
+            [766287.36292209, 6841266.1028964],
+            [766249.43690437, 6841255.95197593],
+            [766217.98845221, 6841250.3195299],
+            [766178.23841806, 6841247.41856454],
+            [766150.62022339, 6841246.02274159]
+          ]
+        ]
+      },
+      "id": "217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "4019",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Bosboom-Toussaintstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 218
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767140.84374893, 6841317.98850638],
+            [767144.78531267, 6841279.86352464],
+            [767162.39635193, 6841276.27400153],
+            [767169.76489367, 6841310.4324203]
+          ]
+        ]
+      },
+      "id": "218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "4707",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Walhofstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 219
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766502.85638873, 6841526.8549205],
+            [766521.24550439, 6841549.34573647]
+          ]
+        ]
+      },
+      "id": "219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "4708",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Van der Capellenstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 220
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766500.00784298, 6841309.63445876],
+            [766507.64707347, 6841284.97133272],
+            [766512.29792187, 6841273.43939634],
+            [766526.68808342, 6841260.07200379],
+            [766659.58979219, 6841146.22946231]
+          ]
+        ]
+      },
+      "id": "220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "4738",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Minister Goeman Borgesiusstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 221
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766334.1629281, 6841723.12766656],
+            [766409.07969483, 6841799.99653718]
+          ]
+        ]
+      },
+      "id": "221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "4852",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Zwiksplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 222
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765505.4633236, 6841204.38877134],
+            [765557.0167222, 6841175.55507673],
+            [765573.87402272, 6841202.97949616]
+          ]
+        ]
+      },
+      "id": "222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "4885",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Minister Loudonlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 223
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765444.03145077, 6840958.02934065],
+            [765604.8748928, 6840887.05536293]
+          ]
+        ]
+      },
+      "id": "223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "4890",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Minister Loudonlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 224
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765604.8748928, 6840887.05536293],
+            [765638.84447866, 6840874.92025459],
+            [765724.83365793, 6840856.81169213],
+            [765750.86023152, 6840854.64133999]
+          ]
+        ]
+      },
+      "id": "224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "4891",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Minister Loudonlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 225
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765750.86023152, 6840854.64133999],
+            [765767.11426508, 6840852.67250003]
+          ]
+        ]
+      },
+      "id": "225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "4920",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Tubantiasingel",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 226
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765733.38687877, 6840717.78343142],
+            [765750.86023152, 6840854.64133999]
+          ]
+        ]
+      },
+      "id": "226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "4921",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Zwikslaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 227
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765538.47495144, 6841224.94607253],
+            [765600.8845195, 6841328.21373171]
+          ]
+        ]
+      },
+      "id": "227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "4924",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Cort van der Lindenlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 228
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765538.47495144, 6841224.94607253],
+            [765573.87402272, 6841202.97949616]
+          ]
+        ]
+      },
+      "id": "228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "7970",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Brandweerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 229
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766880.65739885, 6840646.66805845],
+            [766882.97947299, 6840522.47277427]
+          ]
+        ]
+      },
+      "id": "229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "12164",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Talmaplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 230
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767120.439587, 6841525.4707408],
+            [767125.79931224, 6841548.23115707],
+            [767131.21009013, 6841566.68440118]
+          ]
+        ]
+      },
+      "id": "230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "12188",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Renbaanstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 231
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766968.81000205, 6841600.50602037],
+            [767040.1971135, 6841641.37682079]
+          ]
+        ]
+      },
+      "id": "231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "12465",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottenhof",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 232
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766796.22435379, 6841594.75347302],
+            [766770.08268452, 6841635.88583577],
+            [766808.18360847, 6841656.51644876]
+          ]
+        ]
+      },
+      "id": "232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "12466",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Walhofplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 233
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766792.86681376, 6841762.17138272],
+            [766808.77953553, 6841777.95540754]
+          ]
+        ]
+      },
+      "id": "233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "12467",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Walhofplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 234
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766773.93085377, 6841743.957641],
+            [766792.86681376, 6841762.17138272]
+          ]
+        ]
+      },
+      "id": "234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "12468",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Walhofplein",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 235
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766756.73555099, 6841793.74277765],
+            [766792.86681376, 6841762.17138272]
+          ]
+        ]
+      },
+      "id": "235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "12660",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottenhof",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 236
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766740.15071211, 6841561.16483013],
+            [766796.22435379, 6841594.75347302]
+          ]
+        ]
+      },
+      "id": "236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "13098",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Da Costastraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 237
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767226.67281106, 6841304.34739326],
+            [767324.92778014, 6841295.33548184]
+          ]
+        ]
+      },
+      "id": "237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "13284",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Deurningerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 238
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766934.51259392, 6841712.47730392],
+            [766968.81000205, 6841600.50602037]
+          ]
+        ]
+      },
+      "id": "238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "13961",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schuttersveld",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 239
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765865.75278096, 6840549.42978672],
+            [766036.70707357, 6840529.03025891],
+            [766044.92940795, 6840535.39437331],
+            [766049.8647024, 6840548.94194766],
+            [766056.5532812, 6840586.98045877],
+            [766067.73778946, 6840625.59107683],
+            [766079.85136852, 6840648.68050074],
+            [766108.85516737, 6840700.59411068],
+            [766145.57414199, 6840752.79930268]
+          ]
+        ]
+      },
+      "id": "239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "13962",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Waterboerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 240
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765872.66432024, 6840439.21420894],
+            [765881.63519726, 6840402.70211459],
+            [765924.14824727, 6840407.141405]
+          ]
+        ]
+      },
+      "id": "240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "13968",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Schuttersveld",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 241
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766049.96581511, 6840815.40146094],
+            [766145.57414199, 6840752.79930268]
+          ]
+        ]
+      },
+      "id": "241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "14200",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Dr. Schaepmanlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 242
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765505.4633236, 6841204.38877134],
+            [765520.79207646, 6841236.74580086]
+          ]
+        ]
+      },
+      "id": "242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "14206",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Walhofstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 243
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766657.06741018, 6841703.22196834],
+            [766739.21003139, 6841799.0590859]
+          ]
+        ]
+      },
+      "id": "243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "14281",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Dr. Schaepmanlaan",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 244
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [765492.78150489, 6841178.75203893],
+            [765505.4633236, 6841204.38877134]
+          ]
+        ]
+      },
+      "id": "244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "14285",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Walhofstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 245
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766598.02712122, 6841637.60862886],
+            [766614.72046361, 6841656.86724394],
+            [766657.06741018, 6841703.22196834]
+          ]
+        ]
+      },
+      "id": "245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "14286",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottendijk",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 246
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766572.96340467, 6841838.07971473],
+            [766657.06741018, 6841703.22196834]
+          ]
+        ]
+      },
+      "id": "246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "14287",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "J.W. Racerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 247
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766397.15524568, 6841300.32926538],
+            [766403.23323394, 6841278.96590271]
+          ]
+        ]
+      },
+      "id": "247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "14292",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "J.W. Racerstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 248
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766403.23323394, 6841278.96590271],
+            [766437.48603805, 6841201.47525517],
+            [766493.51856284, 6841152.93920645],
+            [766519.14186442, 6841131.17116148],
+            [766525.58975329, 6841127.77030192],
+            [766533.73378088, 6841127.60153194],
+            [766545.03440297, 6841122.46646909],
+            [766549.85347025, 6841119.09935075],
+            [766556.20031404, 6841110.79970796],
+            [766560.74996961, 6841094.36923767],
+            [766629.64287741, 6841037.39826729]
+          ]
+        ]
+      },
+      "id": "248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "14293",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Minister Goeman Borgesiusstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 249
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766432.32236124, 6841820.75404348],
+            [766475.56127072, 6841847.6729876]
+          ]
+        ]
+      },
+      "id": "249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "14295",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Kottendijk",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 250
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [766657.06741018, 6841703.22196834],
+            [766709.84868478, 6841607.51629318],
+            [766740.15071211, 6841561.16483013]
+          ]
+        ]
+      },
+      "id": "250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "14300",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Lasonderstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 251
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767173.08877032, 6841014.87374221],
+            [767190.17491901, 6841115.6045203]
+          ]
+        ]
+      },
+      "id": "251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "features_ogc_id": "14301",
+        "features_bu_code": "BU01530008",
+        "features_bu_name": "Boddenkamp",
+        "features_gm_name": "Enschede",
+        "features_stt_name": "Bilderdijkstraat",
+        "features_municip_name": "Enschede",
+        "features_gme_naam": "Enschede",
+        "INTERSECTION_ID": 252
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [767190.17491901, 6841115.6045203],
+            [767398.20659924, 6841100.13300772]
+          ]
+        ]
+      },
+      "id": "252"
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:EPSG::3857" }
+  }
+}

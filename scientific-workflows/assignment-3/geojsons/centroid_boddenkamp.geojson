@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ogc_id": "1582",
+        "bu_code": "BU01530008",
+        "bu_name": "Boddenkamp",
+        "gm_name": "Enschede"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [766433.56964087, 6840851.80880215]
+      },
+      "id": "fid-132201bf_196acc245e4_22c6"
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:EPSG::3857" }
+  }
+}

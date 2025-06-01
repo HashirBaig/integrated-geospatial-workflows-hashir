@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wps:Execute version="1.0.0" service="WPS"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:wps="http://www.opengis.net/wps/1.0.0"
+    xmlns:ows="http://www.opengis.net/ows/1.1"
+    xmlns:gml="http://www.opengis.net/gml"
+    xsi:schemaLocation="http://www.opengis.net/wps/1.0.0 http://schemas.opengis.net/wps/1.0.0/wpsAll.xsd">
+
+  <ows:Identifier>coords_wps_extraction</ows:Identifier>
+
+  <wps:DataInputs>
+    <wps:Input>
+      <ows:Identifier>feature</ows:Identifier>
+      <wps:Data>
+        <wps:ComplexData mimeType="application/gml+xml">
+          <gml:Point srsName="EPSG:4326">
+            <gml:coordinates>6.885870,52.224430</gml:coordinates>
+          </gml:Point>
+        </wps:ComplexData>
+      </wps:Data>
+    </wps:Input>
+  </wps:DataInputs>
+
+  <wps:ResponseForm>
+    <wps:RawDataOutput mimeType="text/plain">
+      <ows:Identifier>result</ows:Identifier>
+    </wps:RawDataOutput>
+  </wps:ResponseForm>
+
+</wps:Execute>

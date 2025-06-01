@@ -1,0 +1,29 @@
+{
+  "name": "city_information_app",
+  "version": "1.5.0",
+  "description": "The City's Information App",
+  "author": "Hashir Baig",
+  "scripts": {
+    "clean": "rimraf .parcel-cache dist",
+    "start": "parcel ./index.html --port 3001",
+    "build": "rimraf dist && parcel build --public-url . index.html --no-source-maps"
+  },
+  "keywords": [
+    "MVC",
+    "Webix",
+    "OpenLayers",
+    "D3"
+  ],
+  "dependencies": {
+    "d3": "^7.9.0",
+    "ol": "^9.1.0",
+    "postgraphile": "^4.14.1",
+    "webix": "^10.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "rimraf": "^5.0.0"
+  },
+  "browserslist": "defaults",
+  "proxy": "http://localhost:5000/graphql"
+}
