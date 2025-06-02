@@ -21,31 +21,6 @@ export const HomeView = {
         {
           header: "Statistics",
           body: StatsView,
-          // body: {
-          //   id: "statistics-view",
-          //   template: "Container for the statisctics view...",
-          // },
-        },
-        {
-          header: "Planning",
-          body: {
-            id: "planning-view",
-            template: "The planning view goes in this container...",
-          },
-        },
-        {
-          header: "Transport",
-          body: {
-            id: "transport-view",
-            template: "Real-time transport data will be displayed here...",
-          },
-        },
-        {
-          header: "&bull;&nbsp;&bull;&nbsp;&bull;",
-          body: {
-            id: "temporary-view",
-            template: "Any other required view can be added here...",
-          },
         },
       ],
     },

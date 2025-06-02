@@ -716,7 +716,7 @@ export let StatsCtrl = {
         .style("stroke-width", 2)
         .style("fill-opacity", 0.9);
 
-      statsCtrl.redrawPieChart(record.landuse2012, record.name);
+      StatsCtrl.redrawPieChart(record.landuse2012, record.name);
 
       /* Display tooltip including some record data */
       barTooltip.html(
@@ -728,6 +728,7 @@ export let StatsCtrl = {
           webix.i18n.numberFormat(record.area_km2) +
           "&nbsp;km&sup2;"
       );
+
       barTooltip
         .transition()
         .duration(50)

@@ -16,7 +16,8 @@ window.appdata = {
   appName: "CityApp",
   cityName: "Zwolle",
   cityCoords: [
-    133500, 455200,
+    202849, 504189,
+    //133500, 455200,
   ] /* Coordinates of a central point in Zwolle using EPSG:28992 */,
   zoom: 6.6,
   wfsUrl: null,
